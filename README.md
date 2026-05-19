@@ -77,4 +77,4 @@ This project was created to improve my web development and AI integration skills
 Anele Sibiya
 
 - GitHub: https://github.com/Sibiyanele97
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/sibiya-anele-0a8b80200
